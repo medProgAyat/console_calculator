@@ -14,3 +14,4 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print("ماشین‌حساب ساده")
+
